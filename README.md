@@ -11,7 +11,7 @@ This project focused heavily on bit manipulation to achieve the desired mathmati
 
 #Example Output
 * input
-./testFloat bin -3.625\
+./testFloat bin -3.625
 * output
-dec: -16280  hex: 0xFFFFC068  bin: 1100-0000-0110-1000\
+dec: -16280  hex: 0xFFFFC068  bin: 1100-0000-0110-1000
 
